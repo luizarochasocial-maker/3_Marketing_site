@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { ArrowDown, Globe2, Zap } from "lucide-react";
-import muse from "@/assets/renaissance-muse.jpg";
-import bust from "@/assets/renaissance-bust.jpg";
+import muse from "@/assets/renaissance-muse.png";
+import bust from "@/assets/renaissance-bust.png";
 import painting from "@/assets/renaissance-painting.jpg";
 import { ContactButton, MarketingHeader, MarketingFooter, offer } from "@/components/marketing-shell";
 import { CreativeCarousel } from "@/components/creative-carousel";
@@ -13,6 +13,8 @@ export const Route = createFileRoute("/")({
     { property: "og:title", content: "3 MARKETING | Experiência que trabalha pelas suas vendas" },
     { property: "og:description", content: "Mais de 8 anos de experiência, atendimento boutique e estratégia orientada a vendas. Conheça propostas e investimento pelo WhatsApp." },
     { property: "og:type", content: "website" },
+    { property: "og:image", content: "https://3-marketing-site.vercel.app/media/og.jpg" },
+    { name: "twitter:image", content: "https://3-marketing-site.vercel.app/media/og.jpg" },
     { name: "twitter:card", content: "summary_large_image" },
   ] }),
   component: Index,
