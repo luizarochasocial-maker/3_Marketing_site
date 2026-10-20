@@ -1,0 +1,13 @@
+- [x] Criar galeria de criativos com imagens enviadas e três espaços para reels (vídeos aguardando envio).
+- [x] Destacar experiência, atuação nacional/internacional e agência 360.
+- [x] Reforçar WhatsApp para reuniões e ampliar arte renascentista.
+- [x] Verificar navegação, imagens e apresentação em telas diferentes.
+- [x] Integrar carrossel e espaços para reels na LP, sem navegação para galeria.
+- [x] Compactar conteúdo com autoridade, vendas e fechamento Black Friday.
+- [x] Verificar carrossel, WhatsApp e apresentação em telas diferentes.
+- [x] Trocar título do hero por "Sua agência olha para o seu negócio ou só para mais um número?".
+- [x] Inserir os 3 vídeos enviados nos espaços de reels (com capa e botão de som).
+- [x] Criar seção de tráfego (empresas grandes e pequenas, crescimento saudável, visibilidade/branding, "não basta ser conhecido, precisa vender") com prints de resultados reais.
+- [x] Melhorar a distribuição das quebras de linha da frase do hero (sem trocar a frase).
+- [x] Verificar vídeos, nova seção e hero em telas diferentes.
+- [x] Remover os nomes abaixo das fotos do carrossel, deixando o espaço em branco.
