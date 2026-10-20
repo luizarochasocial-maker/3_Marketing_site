@@ -4,17 +4,11 @@ import { Button } from "@/components/ui/button";
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel";
 import { Dialog, DialogContent, DialogDescription, DialogTitle } from "@/components/ui/dialog";
 import { creatives } from "@/lib/creatives";
-import reel1 from "@/assets/reel-1.mp4.asset.json";
-import reel2 from "@/assets/reel-2.mp4.asset.json";
-import reel3 from "@/assets/reel-3.mp4.asset.json";
-import reel1Poster from "@/assets/reel-1-poster.jpg.asset.json";
-import reel2Poster from "@/assets/reel-2-poster.jpg.asset.json";
-import reel3Poster from "@/assets/reel-3-poster.jpg.asset.json";
 
 const reels = [
-  { src: reel1.url, poster: reel1Poster.url, label: "Reel 01" },
-  { src: reel2.url, poster: reel2Poster.url, label: "Reel 02" },
-  { src: reel3.url, poster: reel3Poster.url, label: "Reel 03" },
+  { src: "/media/reel-1.mp4", poster: "/media/reel-1-poster.jpg", label: "Reel 01" },
+  { src: "/media/reel-2.mp4", poster: "/media/reel-2-poster.jpg", label: "Reel 02" },
+  { src: "/media/reel-3.mp4", poster: "/media/reel-3-poster.jpg", label: "Reel 03" },
 ];
 
 function Reel({ src, poster, label }: { src: string; poster: string; label: string }) {
