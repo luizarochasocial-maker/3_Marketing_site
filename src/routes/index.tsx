@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { ArrowDown, Globe2, Zap } from "lucide-react";
-import muse from "@/assets/renaissance-muse.png";
-import bust from "@/assets/renaissance-bust.png";
+import muse from "@/assets/renaissance-muse.jpg";
+import bust from "@/assets/renaissance-bust.jpg";
 import painting from "@/assets/renaissance-painting.jpg";
 import { ContactButton, MarketingHeader, MarketingFooter, offer } from "@/components/marketing-shell";
 import { CreativeCarousel } from "@/components/creative-carousel";
